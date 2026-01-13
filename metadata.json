@@ -1,0 +1,9 @@
+{
+  "name": "Final Tekmonk",
+  "description": "The ultimate interactive travel platform for Vietnam with AI trip planning, regional maps, food discovery, and essential travel guides.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
